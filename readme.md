@@ -16,5 +16,3 @@ MASTERPIECE is a rocket which is launched at Izu Oshima, 2016. This repository p
         The codes of Processing to visualize the attitudes of rocket.
     - attitudes.csv  
         Edited log data.
-
-## Videos
